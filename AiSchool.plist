@@ -19,13 +19,13 @@
 				<key>bundle-identifier</key>
 				<string>AudioMuseum</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>测试</string>
 				<key>title</key>
-				<string>AiSchool客户端v1.0.0</string>
+				<string>AiSchool客户端v1.0.2</string>
 			</dict>
 		</dict>
 	</array>
